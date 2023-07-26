@@ -1,0 +1,18 @@
+a {
+  cursor: pointer;
+  margin: 20px;
+  padding: 10px;
+}
+
+a:visited {
+  color: #ffa500;
+}
+
+a:active {
+  color: #0000ff;
+}
+
+a:hover {
+  background-color: #ff0000;
+  color: #fff;
+}
